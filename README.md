@@ -2,19 +2,24 @@
 
 I'm Liyas. I'm a software engineer who is passionate about making open-source projects, creating technology to elevate people, and building community.
 
-🔭 I’m currently working on [👽 Postwoman](https://postwoman.io), previously at [Buy Me a Coffee ☕](https://www.buymeacoffee.com).
+<details>
+  <summary>🙋 About me in 30 seconds (click to expand):</summary>
+  <p></p>
 
-🌱 I’m currently learning psychology, business and finance.
+  🔭 I’m currently working on [👽 Postwoman](https://postwoman.io), previously at [Buy Me a Coffee ☕](https://www.buymeacoffee.com).
 
-👯 I’m looking to collaborate on Vue.js / Nuxt.js projects.
+  🌱 I’m currently learning psychology, business and finance.
 
-🤔 I’m looking for help with building a startup.
+  👯 I’m looking to collaborate on Vue.js / Nuxt.js projects.
 
-💬 Ask me about web, life and happiness.
+  🤔 I’m looking for help with building a startup.
 
-😄 Pronouns: He / Him.
+  💬 Ask me about web, life and happiness.
 
-⚡ Fun fact: I'm a lefty.
+  😄 Pronouns: He / Him.
+
+  ⚡ Fun fact: I'm a lefty.
+</details>
 
 📫 How to reach me:
 
