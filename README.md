@@ -4,6 +4,8 @@ I'm Liyas. I'm a software engineer who is passionate about making open-source pr
 
 ![Liyas' GitHub stats](https://github-readme-stats.vercel.app/api?username=liyasthomas&show_icons=true&line_height=40&hide_title=true&hide_border=true)
 
+<!--START_SECTION:activity-->
+
 <details>
   <summary>🙋 About me in 30 seconds (click to expand):</summary>
   <p></p>
