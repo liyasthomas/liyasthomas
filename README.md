@@ -2,7 +2,7 @@
 
 I'm Liyas. I'm a software engineer who is passionate about making open-source projects, creating technology to elevate people, and building community.
 
----
+![Liyas' GitHub stats](https://github-readme-stats.vercel.app/api?username=liyasthomas&show_icons=true&line_height=40&hide_title=true&hide_border=true)
 
 <details>
   <summary>🙋 About me in 30 seconds (click to expand):</summary>
@@ -22,8 +22,6 @@ I'm Liyas. I'm a software engineer who is passionate about making open-source pr
 
   ⚡ Fun fact: I'm a lefty.
 </details>
-
----
 
 📫 How to reach me:
 
