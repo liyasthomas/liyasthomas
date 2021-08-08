@@ -1,3 +1,5 @@
-<div align="center">
-  <img src="https://assets.website-files.com/5e51b3b0337309d672efd94c/5e51cc5933d368febc351897_footer-img.svg">
-</div>
+born in 1996, big fan of open source, love making tools to improve developer experience.
+
+made [@hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) and few other [open source projects](https://liyasthomas.com/works).
+
+<sub>[website](https://liyasthomas.com/) &nbsp; • &nbsp; [twitter](twitter.com/liyasthomas) &nbsp; • &nbsp; [linkedin](https://www.linkedin.com/in/liyasthomas/) &nbsp; • &nbsp; [email](mailto:hi@liyasthomas.com) &nbsp; • &nbsp; [calendar](https://calendly.com/liyasthomas/30m) &nbsp; • &nbsp; [telegram](https://t.me/liyasthomas)</sub>
