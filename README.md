@@ -1,4 +1,4 @@
-born in 1996, big fan of open source, love making tools to improve developer experience.
+born in 1996, big fan of open source, making tools to improve developer experience.
 
 made [@hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) and few other [open source projects](https://liyasthomas.com/works).
 
