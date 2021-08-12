@@ -19,6 +19,4 @@ Blog:
 - [Pay your rent from open source 💸](https://liyasthomas.com/blog/pay-your-rent-from-open-source)
 - [more](https://dev.to/liyasthomas)
 
----
-
 <sub>[website](https://liyasthomas.com/) &nbsp; • &nbsp; [twitter](twitter.com/liyasthomas) &nbsp; • &nbsp; [linkedin](https://www.linkedin.com/in/liyasthomas/) &nbsp; • &nbsp; [email](mailto:hi@liyasthomas.com) &nbsp; • &nbsp; [calendar](https://calendly.com/liyasthomas/30m) &nbsp; • &nbsp; [telegram](https://t.me/liyasthomas)</sub>
