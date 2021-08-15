@@ -1,4 +1,4 @@
- Hi, my name is Liyas Thomas, I'm a designer, developer, and an entrepreneur. I'm a big fan of open source. I love making tools to improve developer experience.
+ Hi, my name is Liyas Thomas, I'm a big fan of open source. I love making tools to improve developer experience.
 
 I made [@hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) and few other [open source projects](https://liyasthomas.com/works).
 
