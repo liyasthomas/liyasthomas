@@ -4,6 +4,7 @@ I made [@hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) and fe
 
 **Past events:**
 
+- [Celebrating 2 years of Hoppscotch](https://dev.to/hoppscotch/introducing-hoppscotch-2-0-a-fresh-new-perspective-1j44)
 - [30,000 GitHub Stars for Hoppscotch](https://twitter.com/liyasthomas/status/1417870384284590084)
 - [Spoke at GitHub Satellite India](https://githubsatellite.com/sessions/journey-of-a-project-made-in-india-hoppscotch/)
 - [200k users on Hoppscotch](https://twitter.com/liyasthomas/status/1375832216689729544)
