@@ -1,4 +1,4 @@
- Hi, I'm a big fan of open source. I love making tools to improve developer experience.
+Hi, I'm a big fan of open source. I love making tools to improve developer experience.
 
 I made [@hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) and few other [open source projects](https://liyasthomas.com/works).
 
