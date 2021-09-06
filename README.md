@@ -14,10 +14,11 @@ I made [@hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) and fe
 - Won FOSS Hack 2020
 - [more](https://liyasthomas.com/timeline)
 
-Blog:
+**Blog:**
+
 - [Solve your own problem, everything else will follow](https://liyasthomas.com/blog/solve-your-own-problem)
 - [There's more to life than work/school/career](https://liyasthomas.com/blog/more-to-life)
 - [Pay your rent from open source](https://liyasthomas.com/blog/pay-your-rent-from-open-source)
 - [more](https://dev.to/liyasthomas)
 
-<sub>[website](https://liyasthomas.com/) &nbsp; • &nbsp; [twitter](https://twitter.com/liyasthomas) &nbsp; • &nbsp; [linkedin](https://www.linkedin.com/in/liyasthomas/) &nbsp; • &nbsp; [email](mailto:hi@liyasthomas.com) &nbsp; • &nbsp; [calendar](https://calendly.com/liyasthomas/30m) &nbsp; • &nbsp; [telegram](https://t.me/liyasthomas)</sub>
+<sub>[sponsor me](https://github.com/sponsors/liyasthomas) &nbsp; • &nbsp; [website](https://liyasthomas.com/) &nbsp; • &nbsp; [twitter](https://twitter.com/liyasthomas) &nbsp; • &nbsp; [linkedin](https://www.linkedin.com/in/liyasthomas/) &nbsp; • &nbsp; [email](mailto:hi@liyasthomas.com) &nbsp; • &nbsp; [calendar](https://calendly.com/liyasthomas/30m) &nbsp; • &nbsp; [telegram](https://t.me/liyasthomas)</sub>
