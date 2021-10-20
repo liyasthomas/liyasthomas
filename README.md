@@ -2,7 +2,7 @@ Hi, I'm a big fan of open source. I love making tools to improve developer exper
 
 I made [@hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) and few other [open source projects](https://liyasthomas.com/works).
 
-<img align="right" height="128" width="128" src="https://github.githubassets.com/images/mona-loading-dark.gif" />
+<img align="right" height="64" width="64" src="https://github.githubassets.com/images/mona-loading-dark.gif" />
 
 **Past events:**
 
