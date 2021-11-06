@@ -2,8 +2,6 @@ Hi, I'm a big fan of open source. I love making tools to improve developer exper
 
 I made [@hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) and few other [open source projects](https://liyasthomas.com/works).
 
-<img align="right" height="64" width="64" src="https://github.githubassets.com/images/mona-loading-dark.gif" />
-
 **Past events:**
 
 - [Recipient of GitHub Open Source Grants](https://github.blog/2021-09-12-recipients-open-source-grants-github-sponsors-india)
