@@ -4,6 +4,7 @@ I made [Hoppscotch](https://github.com/hoppscotch/hoppscotch) and few other open
 
 **Past events:**
 
+- [Hoppscotch seed funding announcement](https://hoppscotch.notion.site/3e0757e531264cdaa0c81edf69f86d3e)
 - GitHub README project
   - [✨ Story](https://github.com/readme/stories/liyas-thomas)
   - [🎙️ Podcast](https://github.com/readme/podcast/liyas-thomas)
