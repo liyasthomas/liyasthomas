@@ -8,9 +8,9 @@ I made [Hoppscotch](https://github.com/hoppscotch/hoppscotch) and few other open
 - GitHub README project
   - [✨ Story](https://github.com/readme/stories/liyas-thomas)
   - [🎙️ Podcast](https://github.com/readme/podcast/liyas-thomas)
-- [Launching Hoppscotch of Teams](https://liyasthomas.hashnode.dev/create-teams-for-collaboration-in-hoppscotch)
+- [Launching Hoppscotch of Teams](https://company.hoppscotch.io/create-teams-for-collaboration-in-hoppscotch)
 - [Recipient of GitHub Open Source Grants](https://github.blog/2021-09-12-recipients-open-source-grants-github-sponsors-india)
-- [Celebrating 2 years of Hoppscotch](https://dev.to/hoppscotch/introducing-hoppscotch-2-0-a-fresh-new-perspective-1j44)
+- [Celebrating 2 years of Hoppscotch](https://company.hoppscotch.io/hoppscotch-v2)
 - [30,000 GitHub Stars for Hoppscotch](https://twitter.com/liyasthomas/status/1417870384284590084)
 - [Spoke at GitHub Satellite India](https://githubsatellite.com/sessions/journey-of-a-project-made-in-india-hoppscotch/)
 - [200k users on Hoppscotch](https://twitter.com/liyasthomas/status/1375832216689729544)
