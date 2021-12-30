@@ -1,6 +1,6 @@
 Hi, I'm a big fan of open source. I love making tools to improve developer experience.
 
-I made [Hoppscotch](https://github.com/hoppscotch/hoppscotch) and few other open source projects.
+I made [Hoppscotch](https://github.com/hoppscotch/hoppscotch) - an open source API development ecosystem and few other open source projects.
 
 **Past events:**
 
