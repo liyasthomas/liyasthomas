@@ -4,6 +4,7 @@ I made [Hoppscotch](https://github.com/hoppscotch/hoppscotch) - an open source A
 
 **Past events:**
 
+- [35,000 GitHub Stars for Hoppscotch](https://twitter.com/liyasthomas/status/1477619150235201539)
 - [Hoppscotch raises $3M in seed funding to build open source API development ecosystem](https://company.hoppscotch.io/hoppscotch-raises-3m-in-seed-funding-to-build-open-source-api-development-ecosystem)
 - Participated in GitHub README project
   - [Story](https://github.com/readme/stories/liyas-thomas)
@@ -11,7 +12,6 @@ I made [Hoppscotch](https://github.com/hoppscotch/hoppscotch) - an open source A
 - [Launching Hoppscotch of Teams](https://company.hoppscotch.io/create-teams-for-collaboration-in-hoppscotch)
 - [Recipient of GitHub Open Source Grants](https://github.blog/2021-09-12-recipients-open-source-grants-github-sponsors-india)
 - [Celebrating 2 years of Hoppscotch](https://company.hoppscotch.io/hoppscotch-v2)
-- [30,000 GitHub Stars for Hoppscotch](https://twitter.com/liyasthomas/status/1417870384284590084)
 - [Spoke at GitHub Satellite India](https://githubsatellite.com/sessions/journey-of-a-project-made-in-india-hoppscotch/)
 - [200k users on Hoppscotch](https://twitter.com/liyasthomas/status/1375832216689729544)
 - Recipient of [AWS Amplify Hackathon](https://liyasthomas.hashnode.dev/savvy-build-better-products-with-customer-feedback) and [Vercel Hackathon](https://liyasthomas.hashnode.dev/ebb-feel-life-again-from-a-new-perspective)
