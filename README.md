@@ -4,7 +4,7 @@ I made [Hoppscotch](https://github.com/hoppscotch/hoppscotch) - an open source A
 
 **Past events:**
 
-- [35,000 GitHub Stars for Hoppscotch](https://twitter.com/liyasthomas/status/1477619150235201539)
+- [40,000 GitHub Stars for Hoppscotch](https://twitter.com/liyasthomas/status/1506246921324691457)
 - [Hoppscotch raises $3M in seed funding to build open source API development ecosystem](https://company.hoppscotch.io/hoppscotch-raises-3m-in-seed-funding-to-build-open-source-api-development-ecosystem)
 - Participated in GitHub README project
   - [Story](https://github.com/readme/stories/liyas-thomas)
