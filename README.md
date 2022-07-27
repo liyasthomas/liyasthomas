@@ -4,6 +4,7 @@ I made [Hoppscotch](https://github.com/hoppscotch/hoppscotch) - an open source A
 
 **Past events:**
 
+- [Our first-ever, in-person team meetup](https://twitter.com/hoppscotch_io/status/1551955638594310144)
 - [Hoppscotch is nominated for the "Breakthrough of the Year" award by OS Awards](https://osawards.com/javascript/#nominees)
 - [1 million users on Hoppscotch](https://twitter.com/liyasthomas/status/1514139853390499840)
 - [40,000 GitHub Stars for Hoppscotch](https://twitter.com/liyasthomas/status/1506246921324691457)
