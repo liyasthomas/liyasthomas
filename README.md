@@ -30,5 +30,3 @@ Hi, I'm a big fan of open source. I love making tools to improve developer exper
 - [There's more to life than work/school/career](https://liyasthomas.com/blog/more-to-life)
 - [Pay your rent from open source](https://liyasthomas.com/blog/pay-your-rent-from-open-source)
 - [more](https://dev.to/liyasthomas)
-
-<sub>[sponsor me](https://github.com/sponsors/liyasthomas) &nbsp; • &nbsp; [website](https://liyasthomas.com/) &nbsp; • &nbsp; [twitter](https://twitter.com/liyasthomas) &nbsp; • &nbsp; [linkedin](https://www.linkedin.com/in/liyasthomas/) &nbsp; • &nbsp; [email](mailto:hi@liyasthomas.com) &nbsp; • &nbsp; [calendar](https://calendly.com/liyasthomas/30m) &nbsp; • &nbsp; [telegram](https://t.me/liyasthomas)</sub>
