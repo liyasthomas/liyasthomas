@@ -4,6 +4,7 @@ Hi, I'm a big fan of open source. I love making tools to improve developer exper
 
 **Past events:**
 
+- [Hoppscotch reached 50,000 stars on GitHub](https://twitter.com/hoppscotch_io/status/1628368060909490182)
 - [Hoppscotch got featured as the #1 open source project from India](https://twitter.com/liyasthomas/status/1595863637805379584)
 - [Our first-ever, in-person team meetup](https://twitter.com/hoppscotch_io/status/1551955638594310144)
 - [Hoppscotch is nominated for the "Breakthrough of the Year" award by OS Awards](https://osawards.com/javascript/#nominees)
