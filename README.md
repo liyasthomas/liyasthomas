@@ -2,7 +2,7 @@ Hi, I'm a big fan of open source. I love making tools to improve developer exper
 
   I build the initial version (currently CEO) of [Hoppscotch](https://github.com/hoppscotch/hoppscotch) - an open source API development ecosystem and few other open source projects.
 
-**Past events:**
+**Timeline:**
 
 - [Hoppscotch reached 50,000 stars on GitHub](https://twitter.com/hoppscotch_io/status/1628368060909490182)
 - [Hoppscotch got featured as the #1 open source project from India](https://twitter.com/liyasthomas/status/1595863637805379584)
