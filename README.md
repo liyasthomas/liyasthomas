@@ -1,6 +1,6 @@
-Hi, I'm a big fan of open source. I love making tools to improve developer experience.
+Hi, I'm a big fan of open source. I love making tools to improve the developer experience.
 
-  I build the initial version (currently CEO) of [Hoppscotch](https://github.com/hoppscotch/hoppscotch) - an open source API development ecosystem and few other open source projects.
+  I'm the CEO of [Hoppscotch](https://github.com/hoppscotch/hoppscotch) - an open-source API development ecosystem.
 
 **Timeline:**
 
@@ -11,7 +11,7 @@ Hi, I'm a big fan of open source. I love making tools to improve developer exper
 - [1 million users on Hoppscotch](https://twitter.com/liyasthomas/status/1514139853390499840)
 - [40,000 GitHub Stars for Hoppscotch](https://twitter.com/liyasthomas/status/1506246921324691457)
 - [Hoppscotch raises $3M in seed funding to build open source API development ecosystem](https://company.hoppscotch.io/hoppscotch-raises-3m-in-seed-funding-to-build-open-source-api-development-ecosystem)
-- Participated in GitHub README project
+- Participated in the GitHub README project
   - [Story](https://github.com/readme/stories/liyas-thomas)
   - [Podcast](https://github.com/readme/podcast/liyas-thomas)
 - [Launching Hoppscotch of Teams](https://company.hoppscotch.io/create-teams-for-collaboration-in-hoppscotch)
