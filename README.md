@@ -1,6 +1,6 @@
 Hi, I'm a big fan of open source. I love making tools to improve the developer experience.
 
-  I'm the CEO of [Hoppscotch](https://github.com/hoppscotch/hoppscotch) - an open-source API development ecosystem.
+  I'm the founder and CEO of [Hoppscotch](https://github.com/hoppscotch/hoppscotch) - open-source API development ecosystem.
 
 **Timeline:**
 
