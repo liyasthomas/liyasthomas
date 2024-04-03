@@ -10,7 +10,6 @@ Hi, I'm a big fan of open source. I love making tools to improve the developer e
 - [Our first-ever, in-person team meetup](https://twitter.com/hoppscotch_io/status/1551955638594310144)
 - [Hoppscotch is nominated for the "Breakthrough of the Year" award by OS Awards](https://osawards.com/javascript/#nominees)
 - [1 million users on Hoppscotch](https://twitter.com/liyasthomas/status/1514139853390499840)
-- [40,000 GitHub Stars for Hoppscotch](https://twitter.com/liyasthomas/status/1506246921324691457)
 - [Hoppscotch raises $3M in seed funding to build open source API development ecosystem](https://company.hoppscotch.io/hoppscotch-raises-3m-in-seed-funding-to-build-open-source-api-development-ecosystem)
 - Participated in the GitHub README project
   - [Story](https://github.com/readme/stories/liyas-thomas)
